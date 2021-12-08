@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:primaryType="sling:OsgiConfig"
+    apikey="9b5255153f1e0d4b0de53c1bae133728"
+    climateForecast30DaysEndpoint="https://api.openweathermap.org/data/2.5/onecall"
+    currentWeatherEndpoint="https://api.openweathermap.org/data/2.5/weather"
+    dailyForecast16DaysEndpoint="https://api.openweathermap.org/data/2.5/forecast"/>
